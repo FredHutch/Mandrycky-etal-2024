@@ -1,6 +1,6 @@
 # Under pressure: altered endothelial flow response
 
-Repository for the code used in all computational analyses for the Ishida et al. 2023 submitted manuscript.
+Repository for the code used in scRNA-seq computational analyses for the Mandrycky et al. 2024 submitted manuscript.
 
 URL TBD
 
