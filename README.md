@@ -6,6 +6,6 @@ URL TBD
 
 The computational analysis was done in R using primarily Monocle3 and dependency packages. The sections of code used to create specific figure panels are designated in the comments of the file.
 
-Raw data can be accessed through NCBI GEO at (Insert GEO link here).
+Raw data can be accessed through NCBI GEO at (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE261063).
 
 For questions regarding the code, please contact the corresponding author.
